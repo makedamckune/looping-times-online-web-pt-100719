@@ -1,7 +1,7 @@
 def 
   
-15.times.do
- puts "Japanese Denim"
+7.times.do
+ puts "Wingardium Leviosa"
 end
 
 
